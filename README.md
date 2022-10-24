@@ -10,7 +10,7 @@ Untuk membuat sebuah box element bisa menggunakan tag `<div>` seperti berikut.
     `<div class="div3">Div 3</div>` <p>
 `</section>`
 
-![Gambar 1](screenshoot/Coding%20satu.png)
+![Gambar 1](screenshoot/cssbox.png)
 <p></p>
 
 ### CSS Float Property
