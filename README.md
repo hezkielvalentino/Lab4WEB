@@ -3,6 +3,7 @@
 ### Box Element
 Untuk membuat sebuah box element bisa menggunakan tag `<div>` seperti berikut.
 <p></p>
+
 `<section>` <p>
     `<div class="div1">Div 1</div>` <p>
     `<div class="div2">Div 2</div>` <p>
