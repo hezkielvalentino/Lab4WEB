@@ -15,7 +15,7 @@ Untuk membuat sebuah box element bisa menggunakan tag `<div>` seperti berikut.
 
 ### CSS Float Property
 Untuk Membuat CSS Float tambahkan deklarasi CSS pada head untuk membuat Float Element, seperti berikut.<p>
-![Gambar 2](screenshot/CSSfloat.png)
+![Gambar 2](screenshot/CSSFloat.png)
 ### Mengatur Clearfix Element
 Clearfix Element digunakan untuk mengatur element setelah float element. Property digunakan untuk mengaturnya.<p>
 Tambahkan element div lainnya seteleah div3 seperti berikut.<p>
