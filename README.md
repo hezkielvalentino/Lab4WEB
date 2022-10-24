@@ -17,7 +17,7 @@ Untuk membuat sebuah box element bisa menggunakan tag `<div>` seperti berikut.
 Untuk Membuat CSS Float tambahkan deklarasi CSS pada head untuk membuat Float Element, seperti berikut.<p>
 
 ![Gambar2](screenshoot/CSSFloat.png)<p>
-Kemudian jalankan HTML yang baru dibuat untuk melihat hasilnya.
+Kemudian jalankan HTML yang baru dibuat untuk melihat hasilnya.<p>
 ![Gmabar3](screenshoot/output0.png)
 
 ### Mengatur Clearfix Element
@@ -67,7 +67,7 @@ Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.<p>
 ![image](/screenshoot/MainSlidebar.png)
 ### Membuat Sidebar Widget
 Kemudian selanjutnya menambahkan element lain dalam sidebar.<p>
-![image](/screenshoot/homeslidebar.png) <p>
+![image](/screenshoot/homesildebar.png) <p>
 Kemudian tambahkan CSS.<p>
 ![image](/screenshoot/widgetcss.png) <p>
 Kemudian Lihat Hasilnya
